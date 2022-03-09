@@ -18,10 +18,8 @@
 
 .content {
   padding: 10px;
-  
   text-align: center;
 
- 
 }
 
 h1 {
@@ -59,9 +57,6 @@ h1 {
 .content-calc button img {
   width: 15px;
   
-
-  
-  
 }
 
 
@@ -69,8 +64,5 @@ h1 {
   width: 30px;
   background: #FFA405;
   color: #CA7C0C;
-  
-
-
  
 }
